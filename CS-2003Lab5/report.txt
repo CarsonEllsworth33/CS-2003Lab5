@@ -1,0 +1,14 @@
+Umple is a very robust modeling language that allows the 
+user to generate readable UML for easy readability and
+comes with the ability to generate programming language 
+specific code to ease the development process.  The plugin 
+is useful for early development of classes to generate
+them correctly and quickly.  It grants easy associations 
+between classes making it a great tool for psuedocode
+at the beginning of a project to be generated into the
+first version of your code.
+
+if I was able to write methods in umple i could 
+theoretically write an entire program just using umple and
+its code generation which would be an interesting challenge
+

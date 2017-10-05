@@ -1,0 +1,26 @@
+class Customer
+{
+  boolean isAFrequentShopper;
+  int age;
+  int birthday;
+  name;
+  1 -- * Order;
+}
+
+class Account
+{
+  int id;
+  int balance;
+  int savings;
+  owner;
+  1 -- 1 Customer;
+}
+
+class Order
+{
+  int trackingNum;
+  int dateOrdered;
+  customerName;
+  int cost;
+}
+
